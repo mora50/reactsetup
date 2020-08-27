@@ -1,5 +1,4 @@
 # React NextJS SETUP - TypeScript
-
 A simple setup of react next app, that includes: styled-components, eslintconfig, prettierconfig and svg babel plugin for more optimization
 
 ## How to install
